@@ -1,4 +1,4 @@
-#Topic 13: a novel framework for the Exploratory Spatial Data Analytics for efficient combined analytics of georeferenced fine-grained air quality and mobility data
+# Topic 13: a novel framework for the Exploratory Spatial Data Analytics for efficient combined analytics of georeferenced fine-grained air quality and mobility data
 
 This project aims at integrating and analyzing fine-grained georeferenced air quality data with vehicle mobility data to develop a comprehensive understanding of urban environmental dynamics. We will develop a framework atop Python Geo libraries to support the Exploratory Spatial Data Analytics (ESDA) such as sampling, geo-visualization, geo-statistics, preprocessing, etc.,. The framework will be tested on regression and/or clustering models! 
 
