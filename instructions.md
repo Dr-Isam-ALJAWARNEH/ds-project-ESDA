@@ -21,3 +21,9 @@
     - [Exploratory Spatial Data Analysis (ESDA)](https://darribas.org/gds_scipy16/ipynb_md/04_esda.html)
     - [NYC Data](https://github.com/PacktPublishing/Geospatial-Data-Science-Quick-Start-Guide/blob/master/Chapter02/NYC%20Data.ipynb)
     - [Performing Spatial operations like a Pro](https://github.com/PacktPublishing/Geospatial-Data-Science-Quick-Start-Guide/blob/master/Chapter03/Chapter3.ipynb) such as ```Spatial join```
+    
+    ---------------
+    
+    NEW!! 31 March 2024
+    - you need to proceed by applying the concepts we have covered in the last few chapters (visualization, sampling, testing hypothesis, mean, prediction, classification) to the fused (merged) data that results from joining air quality and mobility data.
+    - for example, formulate hypothesis about the ratio between the average PM25 value at a specific neighborhood and the density of taxi fleet moving at the same time in that neighborhood. Have a look at HW2 for more insights.
