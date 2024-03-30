@@ -26,4 +26,8 @@
     
     NEW!! 31 March 2024
     - you need to proceed by applying the concepts we have covered in the last few chapters (visualization, sampling, testing hypothesis, mean, prediction, classification) to the fused (merged) data that results from joining air quality and mobility data.
-    - for example, formulate hypothesis about the ratio between the average PM25 value at a specific neighborhood and the density of taxi fleet moving at the same time in that neighborhood. Have a look at HW2 for more insights.
+    - for example (for testing hypothesis chapter), formulate hypothesis about the ratio between the average PM25 value at a specific neighborhood and the density of taxi fleet moving at the same time in that neighborhood. Have a look at HW2 for more insights.
+    - for example (for sampling chapter), design a novel stratified-like sample method that take samples fairly from each neighborhood (probably by sampling from each geohash bracket the same value) based on the distribution of PM25 and taxi trip values, from the combined dataset that results from the join. Then quantify uncertainty by measuring, for example Root-Mean-Square (RMSE) error between the predicted PM10/density ratio value (which results from the sampling) and the original value from the original dataset without sampling.  
+    - for example (for mean chapter), apply the concepts that we have studied on ```choosing sample size```, ```properties of the mean```, ```variability```, ```SD and normal curve```, ```central limit theorem``` and ```variability of the sample mean``` on one of the statistics, which is the ```mean of pm25```
+    - for example (for prediction chapter), apply the regression to check wether we can predict the pm10 value in a specific location (could be represented as a geohash) given the density of taxi at that location at the same time!
+    - I also have added the conference (and journal) paper template to start writing your report!
