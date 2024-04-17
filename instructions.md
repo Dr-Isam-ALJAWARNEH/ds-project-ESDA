@@ -1,5 +1,13 @@
 # instructions
-## follow the following instructions
+##  instructions
+
+Excellent work has been done so far. Few points:
+
+- Link to the online data files [available here](https://github.com/IsamAljawarneh/datasets/tree/master/data) instead of the local files, so that I can run directly!
+- test with larger datasets, same data but more records, available [here](https://github.com/IsamAljawarneh/datasets/tree/master/data/NYC_AQ) for the AQ data.
+- Start writing your paper!
+
+-----------------------------------------------------------------------------------------------
 1. [ ] run the example starting code and familiarize yourself with some geosaptial processing techniques, including:
     - sampling
     - spatial join
